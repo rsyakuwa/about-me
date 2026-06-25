@@ -21,6 +21,44 @@ Possuo sólida bagagem no atendimento a corretoras e usuários do ambiente finan
 *   **Bancos de Dados:** MCSA SQL Server.
 *   **Metodologias & Processos:** Lean Six Sigma White Belt, Troubleshooting e Debugging Avançado.
 
+### 🛡️ Segurança & Infraestrutura de Redes
+![Cisco](https://img.shields.io/badge/Cisco-00BCE4?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-FF4D00?style=for-the-badge&logo=fortinet&logoColor=white)
+
+### 🖥️ Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🏅 Badges e Conquistas Acadêmicas
+
+<table>
+  <tr>
+    <!-- BADGE CISCO -->
+    <td>
+      <a href="(https://www.credly.com/earner/earned/badge/2bdfd200-83f9-4d07-8dda-1decb93b93a5)">
+        <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" alt="Cisco Introduction to Cybersecurity" />
+      </a>
+    </td>
+    <td>
+      <strong>Cisco Networking Academy</strong><br />
+      <em>Introduction to Cybersecurity</em><br />
+      Fundamentos de segurança digital, defesa de redes, proteção de dados e análise de ameaças cibernéticas.
+    </td>
+  </tr>
+
+  <tr>
+    <!-- BADGE FORTINET -->
+    <td align="center" width="150">
+      <a href="LINK_DO_SEU_CERTIFICADO_FORTINET_AQUI">
+        <img src="https://images.credly.com/size/680x680/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="100" alt="Fortinet Threat Landscape" />
+      </a>
+    </td>
+    <td>
+      <strong>Introduction to the Threat Landscape 3.0</strong><br />
+      Mapeamento e entendimento do cenário atual de ameaças, vetores de ataque comuns, inteligência contra ameaças (Cyber Threat Intelligence) e estratégias de defesa corporativa.
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🎓 Formação & Certificações
