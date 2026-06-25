@@ -84,5 +84,4 @@ Possuo sólida bagagem no atendimento a corretoras e usuários do ambiente finan
 ## 🤝 Conecte-se Comigo
 
 *   **LinkedIn:** [linkedin.com/in/rodrigoyakuwa/](https://www.linkedin.com/in/rodrigoyakuwa/)
-*   **E-mail:** rodrigoyakuwa@gmail.com
 *   **Localização:** São Paulo, SP - Brasil 📍
