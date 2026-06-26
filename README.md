@@ -11,6 +11,19 @@ Possuo sólida bagagem no atendimento a corretoras e usuários do ambiente finan
 *   **Especialização:** Aprofundando conhecimentos em segurança de identidade, automação de processos, monitoramento e análise de vulnerabilidades.
 
 ---
+## 📁 Projetos em Destaque
+
+### 🛡️ [Portfólio Prático de Cibersegurança](https://github.com/rsyakuwa/cybersecurity)
+Repositório central focado na consolidação de laboratórios práticos, estudos de caso e automações voltadas para **Defesa Cibernética (Blue Team), SecOps e Governança**.
+
+* **Automação & SecOps:** Scripts em PowerShell para auditoria de conexões ativas e monitoramento de logs em tempo real (*Mini-SIEM* para detecção de falhas de logon - Event ID 4625).
+* **Gestão de Identidade (IAM):** Estudos de cenários práticos e políticas de privilégio mínimo utilizando a plataforma **CyberArk**.
+* **Observabilidade:** Monitoramento proativo, visibilidade de infraestrutura e análise de causa raiz com **Dynatrace Essentials**.
+* **Trilha Acadêmica:** Acompanhamento prático e laboratórios do certificado profissional **Google Cybersecurity**.
+
+👉 [Clique aqui para explorar os códigos e documentações completas.](https://github.com/rsyakuwa/cybersecurity)
+
+---
 
 ## 🛠️ Competências Técnicas & Ferramentas
 
