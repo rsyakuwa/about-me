@@ -34,14 +34,13 @@ Possuo sólida bagagem no atendimento a corretoras e usuários do ambiente finan
 <table>
   <tr>
     <!-- BADGE CISCO -->
-    <td>
+    <td align="center" width="150">
       <a href="(https://www.credly.com/earner/earned/badge/2bdfd200-83f9-4d07-8dda-1decb93b93a5)">
         <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" height="110" alt="Cisco Introduction to Cybersecurity" />
       </a>
     </td>
     <td>
-      <strong>Cisco Networking Academy</strong><br />
-      <em>Introduction to Cybersecurity</em><br />
+      <strong>Introduction to Cybersecurity</strong><br />
       Fundamentos de segurança digital, defesa de redes, proteção de dados e análise de ameaças cibernéticas.
     </td>
   </tr>
@@ -56,6 +55,31 @@ Possuo sólida bagagem no atendimento a corretoras e usuários do ambiente finan
     <td>
       <strong>Introduction to the Threat Landscape 3.0</strong><br />
       Mapeamento e entendimento do cenário atual de ameaças, vetores de ataque comuns, inteligência contra ameaças (Cyber Threat Intelligence) e estratégias de defesa corporativa.
+    </td>
+  </tr>
+
+  <tr>
+    <!-- BADGE FORTINET -->
+    <td align="center" width="150">
+      <a href="https://www.credly.com/earner/earned/badge/2a371ec2-57e2-4de2-9b12-ccc2cead11cd">
+        <img src="https://images.credly.com/size/680x680/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="100" alt="Fortinet Certified Fundamentals Cybersecurity" />
+      </a>
+    </td>
+    <td>
+      <strong>Fortinet Certified Fundamentals Cybersecurity</strong><br />
+      Validada através do curso <em>Introduction to the Threat Landscape 3.0</em>. Aborda o mapeamento e entendimento do cenário atual de ameaças cibernéticas, funcionamento de vetores de ataque comuns, inteligência contra ameaças (Cyber Threat Intelligence) e a aplicação de estratégias de defesa essenciais para a proteção de infraestruturas de rede.
+    </td>
+  </tr>
+  <tr>
+    <!-- Google IT Support -->
+    <td align="center" width="150">
+      <a href="https://www.credly.com/earner/earned/badge/2ee96a6c-ee0a-47de-ab24-c39a7263aaec">
+        <img src="https://images.credly.com/size/680x680/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" width="100" alt="Google IT Support Professional Certificate" />
+      </a>
+    </td>
+    <td>
+      <strong>Google IT Support Professional Certificate(v.3)</strong><br />
+      Formação sólida em administração de sistemas (Windows/Linux), redes de computadores e protocolos de comunicação. Capacitação voltada para a aplicação prática de conceitos de segurança da informação, gerenciamento de acessos e rotinas de troubleshooting estruturado em infraestruturas corporativas.
     </td>
   </tr>
 </table>
