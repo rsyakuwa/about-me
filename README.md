@@ -95,6 +95,32 @@ Repositório central focado na consolidação de laboratórios práticos, estudo
       Formação sólida em administração de sistemas (Windows/Linux), redes de computadores e protocolos de comunicação. Capacitação voltada para a aplicação prática de conceitos de segurança da informação, gerenciamento de acessos e rotinas de troubleshooting estruturado em infraestruturas corporativas.
     </td>
   </tr>
+
+<tr>
+    <!-- IBM Badge -->
+    <td align="center" width="150">
+      <a href="https://www.credly.com/earner/earned/badge/78f361e0-ddc0-4fc9-90b1-6bfd22985726">
+        <img src="https://images.credly.com/size/680x680/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="100" alt="Cybersecurity Fundamentals" />
+      </a>
+    </td>
+    <td>
+      <strong>IBM Cybersecurity Fundamentals</strong><br />
+      Compreensão profunda do cenário de ameaças atuais (Malwares, Phishing, Ransomware), conceitos de criptografia (simétrica/assimétrica), firewalls, detecção de intrusão (IDS/IPS) e frameworks de resposta a incidentes. Prova o domínio teórico sobre os pilares de Confidencialidade, Integridade e Disponibilidade (Tríade CID).
+    </td>
+  </tr> 
+
+  <tr>
+    <!-- IBM Badge -->
+    <td align="center" width="150">
+      <a href="https://www.credly.com/earner/earned/badge/78f361e0-ddc0-4fc9-90b1-6bfd22985726">
+        <img src="https://images.credly.com/size/680x680/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="100" alt="Governance, Risk, Compliance, and Data Privacy" />
+      </a>
+    </td>
+    <td>
+      <strong>IBM Governance, Risk, Compliance, and Data Privacy</strong><br />
+      Implementação de políticas de segurança baseadas em frameworks de Governança, gerenciamento e mitigação de riscos corporativos, auditoria de processos de conformidade (Compliance) e aplicação prática de diretrizes de proteção de dados e privacidade em escala corporativa (alinhado a regulamentações como LGPD e GDPR).
+    </td>
+  </tr>  
 </table>
 ---
 
